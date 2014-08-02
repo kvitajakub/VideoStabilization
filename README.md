@@ -1,4 +1,10 @@
 VideoStabilization
 ==================
+Command line tool for stabilizing videos. Two different methods.
 
-Command line tool for stabilizing videos.
+April 2014
+
+Authors
+=======
+Jan Bednarik
+Jakub Kvita - kvitajakub@gmail.com
