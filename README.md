@@ -4,7 +4,9 @@ Command line tool for stabilizing videos. Two different methods - GrayCoded bitp
 April 2014
 
 ## Videos
+
 https://www.youtube.com/watch?v=zTG62lNZERA
+
 https://www.youtube.com/watch?v=wXW76RcAuBc
 
 ## Authors
