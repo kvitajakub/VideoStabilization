@@ -10,5 +10,5 @@ https://www.youtube.com/watch?v=zTG62lNZERA
 https://www.youtube.com/watch?v=wXW76RcAuBc
 
 ## Authors
-* Jan Bednarik
+* Jan Bednarik - jan.bednarik@hotmail.cz
 * Jakub Kvita - kvitajakub@gmail.com
